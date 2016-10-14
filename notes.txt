@@ -1,0 +1,87 @@
+from jeff
+
+agenda, memory capture, why do we care
+
+-> this is hard, doing it remote,
+    why complex networks make it challenging
+
+
+2 slides of context
+
+overview slide, what is memory capture
+-> what motivated me, capture memory of aws, 
+
+multiprocessing,
+not too much detail, runs in true parallel
+
+come back to the reason why we care
+
+lime-compiler, tell me how it works
+
+break out 
+
+
+
+remove overview sldie
+
+spend more time on margarita shotgun
+-----------------------
+Brandon,
+
+-- future work, mention github issues
+
+sell it more at the begining, describe the problem mo better, sell it
+
+
+-- make font sizes bigger
+
+-- summary slide at the end:
+-- w/ personal info again
+
+-- links to github project
+-- links to read the docs
+-- please contribute, check it out
+
+
+add graphic to the margarita shotgun intro page
+
+
+-- talk about the tools, mention lime android roots
+
+what is the impact of lime/ the interaction from margarita shotgun
+
+-- add a performance slide
+
+talk about the implications of imaging machines with lots of memory
+mount new ebs volume to instance
+
+---------------------------------------------
+
+worst case, 
+
+re run this
+
+tech page, make the tech a smaller size
+
+don't keep things gernalized on the paramiko page, talk more about how it's used
+
+gil lock per process in the pool
+
+
+talk better about docker integration
+
+thanks amazon for supports (make actuall words)j
+
+------------------
+
+-- multithreading slide, 
+
+-- make technical explinations more conversational
+
+paramiko, ssh client library, talk about what youd on't have to do, whell outs etc do this more on other slides
+
+
+
+kernel module repository on repo disabled by default slide
+
+

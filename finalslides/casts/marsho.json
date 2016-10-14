@@ -1,0 +1,578 @@
+{
+  "command": null,
+  "env": {
+    "SHELL": "/bin/bash",
+    "TERM": "xterm-256color"
+  },
+  "width": 136,
+  "title": "margaritashogun",
+  "height": 40,
+  "duration": 361.501885,
+  "version": 1,
+  "stdout": [
+    [
+      0.000164,
+      "\u001b]0;ec2-user@ip-172-31-1-159:~\u0007"
+    ],
+    [
+      8.5e-05,
+      "[ec2-user@ip-172-31-1-159 ~]$ "
+    ],
+    [
+      0.533704,
+      "c"
+    ],
+    [
+      0.216236,
+      "d"
+    ],
+    [
+      0.176728,
+      " "
+    ],
+    [
+      0.166535,
+      "b"
+    ],
+    [
+      0.169549,
+      "s"
+    ],
+    [
+      0.080046,
+      "i"
+    ],
+    [
+      0.233514,
+      "des-demo/"
+    ],
+    [
+      0.429157,
+      "\r\n"
+    ],
+    [
+      0.000153,
+      "\u001b]0;ec2-user@ip-172-31-1-159:~/bsides-demo\u0007"
+    ],
+    [
+      0.000101,
+      "[ec2-user@ip-172-31-1-159 bsides-demo]$ "
+    ],
+    [
+      0.700603,
+      "v"
+    ],
+    [
+      0.115467,
+      "i"
+    ],
+    [
+      0.079825,
+      "m"
+    ],
+    [
+      0.148134,
+      " "
+    ],
+    [
+      0.188707,
+      "c"
+    ],
+    [
+      0.150337,
+      "o"
+    ],
+    [
+      0.095499,
+      "n"
+    ],
+    [
+      0.166013,
+      "f"
+    ],
+    [
+      0.154383,
+      "ig.yml "
+    ],
+    [
+      0.546274,
+      "\r\n"
+    ],
+    [
+      0.027967,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      2e-05,
+      "\u001b]11;?\u0007"
+    ],
+    [
+      0.000324,
+      "\u001b[1;40r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[40;1H\"config.yml\""
+    ],
+    [
+      0.000338,
+      " 23L, 521C"
+    ],
+    [
+      0.002008,
+      "\u001b[>c"
+    ],
+    [
+      0.003498,
+      "\u001b[1;1H\u001b[36maws\u001b[m\u001b[35m:\u001b[m\r\n    \u001b[36mbucket\u001b[m\u001b[35m:\u001b[m  \u001b[31m\"cr-0001-20160727\"\u001b[m\r\n\u001b[36mhosts\u001b[m\u001b[35m:\u001b[m\r\n    \u001b[38;5;130m- \u001b[m\u001b[36maddr\u001b[m\u001b[35m:\u001b[m \u001b[31m\"52.36.135.123\"\u001b[m\u001b[5;7H\u001b[36musername\u001b[m\u001b[35m:\u001b[m \u001b[31m\"ec2-user\"\u001b[m\u001b[6;7H\u001b[36mkey\u001b[m\u001b[35m:\u001b[m  \u001b[31m\"key.pem\"\u001b[m\r\n    \u001b[38;5;130m- \u001b[m\u001b[36maddr\u001b[m\u001b[35m:\u001b[m \u001b[31m\"52.42.254.41\"\u001b[m\u001b[8;7H\u001b[36musername\u001b[m\u001b[35m:\u001b[m \u001b[31m\"ec2-user\"\u001b[m\u001b[9;7H\u001b[36mkey\u001b[m\u001b[35m:\u001b[m  \u001b[31m\"key.pem\"\u001b[m\r\n    \u001b[38;5;130m- \u001b[m\u001b[36maddr\u001b[m\u001b[35m:\u001b[m \u001b[31m\"52.42.142.110\"\u001b[m\u001b[11;7H\u001b[36musername\u001b[m\u001b[35m:\u001b[m \u001b[31m\"ec2-user\"\u001b[m\u001b[12;7H\u001b[36mkey\u001b[m\u001b[35m:\u001b[m  \u001b[31m\"key.pem\"\u001b[m\r\n    \u001b[38;5;130m- \u001b[m\u001b[36maddr\u001b[m\u001b[35m:\u001b[m \u001b[31m\"52.43.4.165\"\u001b[m\u001b[14;7H\u001b[36musername\u001b[m\u001b[35m:\u001b[m \u001b[31m\"ec2-user\"\u001b[m\u001b[15;7H\u001b[36mkey\u001b[m\u001b[35m:\u001b[m  \u001b[31m\"key.pem\"\u001b[m\r\n\r\n\u001b[36mworkers\u001b[m\u001b[35m:\u001b[m \u001b[31m\"auto\"\u001b[m\r\n\u001b[36mrepository\u001b[m\u001b[35m:\u001b[m\r\n    \u001b[36menabled\u001b[m\u001b[35m:\u001b[m \u001b[31mtrue\u001b[m\r\n    \u001b[36murl\u001b[m\u001b[35m:\u001b[m \u001b[31m\"https://threatresponse-lime-modules.s3.amazonaws.com/\"\u001b[m\r\n\u001b[36mlogging\u001b[m\u001b[35m:\u001b[m\r\n    \u001b[36mlog_dir\u001b[m\u001b[35m:\u001b[m \u001b[31m'"
+    ],
+    [
+      2.6e-05,
+      "log/'\u001b[m\r\n    \u001b[36mprefix\u001b[m\u001b[35m:\u001b[m \u001b[31m'cr-0001-20160727'\u001b[m\r\n\u001b[94m~                                                                                                                                       \u001b[25;1H~                                                                                                                                       \u001b[26;1H~                                                                                                                                       \u001b[27;1H~                                                                                                                                       \u001b[28;1H~                                                                                                                                       \u001b[29;1H~                                                                                                                                       \u001b[30;1H~                                                                                             "
+    ],
+    [
+      6.8e-05,
+      "                                          \u001b[31;1H~                                                                                                                                       \u001b[32;1H~                                                                                                                                       \u001b[33;1H~                                                                                                                                       \u001b[34;1H~                                                                                                                                       \u001b[35;1H~                                                                                                                                       \u001b[36;1H~                                                                                                                                       \u001b[37;1H~                                                                                                                    "
+    ],
+    [
+      3e-05,
+      "                   \u001b[38;1H~                                                                                                                                       \u001b[39;1H~                                                                                                                                       \u001b[m\u001b[40;119H23,5\u001b[10CAll\u001b[23;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.164592,
+      "\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[1;1H\u001b[1m\u001b[96maws\u001b[m\u001b[38;5;224m:\u001b[m\r\n    \u001b[1m\u001b[96mbucket\u001b[m\u001b[38;5;224m:\u001b[m  \u001b[95m\"cr-0001-20160727\"\u001b[m\r\n\u001b[1m\u001b[96mhosts\u001b[m\u001b[38;5;224m:\u001b[m\r\n    \u001b[93m- \u001b[m\u001b[1m\u001b[96maddr\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m\"52.36.135.123\"\u001b[m\u001b[5;7H\u001b[1m\u001b[96musername\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m\"ec2-user\"\u001b[m\u001b[6;7H\u001b[1m\u001b[96mkey\u001b[m\u001b[38;5;224m:\u001b[m  \u001b[95m\"key.pem\"\u001b[m\r\n    \u001b[93m- \u001b[m\u001b[1m\u001b[96maddr\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m\"52.42.254.41\"\u001b[m\u001b[8;7H\u001b[1m\u001b[96musername\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m\"ec2-user\"\u001b[m\u001b[9;7H\u001b[1m\u001b[96mkey\u001b[m\u001b[38;5;224m:\u001b[m  \u001b[95m\"key.pem\"\u001b[m\r\n    \u001b[93m- \u001b[m\u001b[1m\u001b[96maddr\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m\"52.42.142.110\"\u001b[m\u001b[11;7H\u001b[1m\u001b[96musername\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m\"ec2-user\"\u001b[m\u001b[12;7H\u001b[1m\u001b[96mkey\u001b[m\u001b[38;5;224m:\u001b[m  \u001b[95m\"key.pem\"\u001b[m\r\n    \u001b[93m- \u001b[m\u001b[1m\u001b[96maddr\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m\"52.43.4.165\"\u001b[m\u001b[14;7H\u001b[1m\u001b[96musername\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m\"ec2-user\"\u001b[m\u001b[15;7H\u001b[1m\u001b[96mkey\u001b[m\u001b[38;5;224m:\u001b[m  \u001b[95m\"key.pem\"\u001b[m\r\n\r\n\u001b[1m\u001b[96mworkers\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m\"auto\"\u001b[m\r\n\u001b[1m\u001b[96mrepository\u001b[m\u001b[38;5;224m:\u001b[m\r\n    \u001b[1m\u001b[96menabled\u001b[m\u001b[38"
+    ],
+    [
+      3.5e-05,
+      ";5;224m:\u001b[m \u001b[95mtrue\u001b[m\r\n    \u001b[1m\u001b[96murl\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m\"https://threatresponse-lime-modules.s3.amazonaws.com/\"\u001b[m\r\n\u001b[1m\u001b[96mlogging\u001b[m\u001b[38;5;224m:\u001b[m\r\n    \u001b[1m\u001b[96mlog_dir\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m'log/'\u001b[m\r\n    \u001b[1m\u001b[96mprefix\u001b[m\u001b[38;5;224m:\u001b[m \u001b[95m'cr-0001-20160727'\u001b[m\r\n\u001b[94m~                                                                                                                                       \u001b[25;1H~                                                                                                                                       \u001b[26;1H~                                                                                                                                       \u001b[27;1H~                                                                                                                                       \u001b[28;1H~                                                                                                                                       \u001b[29;1H~                   "
+    ],
+    [
+      7.9e-05,
+      "                                                                                                                    \u001b[30;1H~                                                                                                                                       \u001b[31;1H~                                                                                                                                       \u001b[32;1H~                                                                                                                                       \u001b[33;1H~                                                                                                                                       \u001b[34;1H~                                                                                                                                       \u001b[35;1H~                                                                                                                                       \u001b[36;1H~                                          "
+    ],
+    [
+      2.8e-05,
+      "                                                                                             \u001b[37;1H~                                                                                                                                       \u001b[38;1H~                                                                                                                                       \u001b[39;1H~                                                                                                                                       \u001b[m\u001b[40;119H23,5\u001b[10CAll\r\"config.yml\" 23L, 521C\u001b[23;5H\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.934471,
+      "\u001b[?25l\u001b[40;1H\u001b[K\u001b[40;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      23.823817,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.599584,
+      "\r"
+    ],
+    [
+      0.000514,
+      "\u001b[?25l\u001b[40;1H\u001b[K\u001b[40;1H\u001b[?1l\u001b>\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000607,
+      "\u001b]0;ec2-user@ip-172-31-1-159:~/bsides-demo\u0007"
+    ],
+    [
+      8.4e-05,
+      "[ec2-user@ip-172-31-1-159 bsides-demo]$ "
+    ],
+    [
+      2.497275,
+      "m"
+    ],
+    [
+      0.284505,
+      "a"
+    ],
+    [
+      0.152866,
+      "r"
+    ],
+    [
+      0.265442,
+      "g"
+    ],
+    [
+      0.076907,
+      "a"
+    ],
+    [
+      0.175135,
+      "r"
+    ],
+    [
+      0.310791,
+      "itashotgun "
+    ],
+    [
+      1.667775,
+      "-"
+    ],
+    [
+      0.317897,
+      "h"
+    ],
+    [
+      0.161019,
+      " "
+    ],
+    [
+      0.304448,
+      "|"
+    ],
+    [
+      0.145917,
+      " "
+    ],
+    [
+      0.307019,
+      "l"
+    ],
+    [
+      0.014173,
+      "e"
+    ],
+    [
+      0.149866,
+      "s"
+    ],
+    [
+      0.158873,
+      "s"
+    ],
+    [
+      0.174328,
+      "\r\n"
+    ],
+    [
+      0.001124,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.294451,
+      "usage: margaritashotgun [-h] (-c CONFIG | -s SERVER) [-P PORT] [-u USERNAME]\r\n                        [-m MODULE] [-p PASSWORD] [-k KEY] [-f FILENAME]\r\n                        [--repository] [--repository-url REPOSITORY_URL]\r\n                        [-w WORKERS] [-v] [-b BUCKET | -o OUTPUT_DIR]\r\n                        [-d LOG_DIR] [--log_prefix LOG_PREFIX]\r\n\r\nRemote memory aquisition wrapper for LiME\r\n\r\noptional arguments:\r\n  -h, --help            show this help message and exit\r\n  -c CONFIG, --config CONFIG\r\n                        path to config.yml\r\n  -s SERVER, --server SERVER\r\n                        hostname or ip of target server\r\n  -b BUCKET, --bucket BUCKET\r\n                        memory dump output bucket\r\n  -o OUTPUT_DIR, --output_dir OUTPUT_DIR\r\n                        memory dump output directory\r\n\r\n  -P PORT, --port PORT  ssh port on remote server\r\n  -u USERNAME, --username USERNAME\r\n                        username for ssh connection\r\n  -m MODULE, --module MODULE\r\n                        path"
+    ],
+    [
+      3.8e-05,
+      " to kernel lime kernel module\r\n  -p PASSWORD, --password PASSWORD\r\n                        password for user or encrypted keyfile\r\n  -k KEY, --key KEY     path to rsa key for ssh connection\r\n  -f FILENAME, --filename FILENAME\r\n                        memory dump filename\r\n  --repository          enable automatic kernel module downloads\r\n  --repository-url REPOSITORY_URL\r\n                        repository url\r\n  -w WORKERS, --workers WORKERS\r\n                        number of workers to run in parallel,default: auto\r\n                        acceptable values are(INTEGER | \"auto\")\r\n  -v, --verbose         log debug messages\r\n\r\n  -d LOG_DIR, --log_dir LOG_DIR\r\n                        log directory\r\n:\u001b[K"
+    ],
+    [
+      23.572009,
+      "\r\u001b[K\u001b[?1l\u001b>\u001b[?1049l"
+    ],
+    [
+      0.000315,
+      "\u001b]0;ec2-user@ip-172-31-1-159:~/bsides-demo\u0007"
+    ],
+    [
+      0.000103,
+      "[ec2-user@ip-172-31-1-159 bsides-demo]$ "
+    ],
+    [
+      0.942428,
+      "m"
+    ],
+    [
+      0.131028,
+      "a"
+    ],
+    [
+      0.13887,
+      "r"
+    ],
+    [
+      0.283775,
+      "g"
+    ],
+    [
+      0.17276,
+      "a"
+    ],
+    [
+      0.107131,
+      "r"
+    ],
+    [
+      0.174515,
+      "itashotgun "
+    ],
+    [
+      3.33171,
+      "-"
+    ],
+    [
+      0.198368,
+      "c"
+    ],
+    [
+      0.107698,
+      " "
+    ],
+    [
+      0.20788,
+      "c"
+    ],
+    [
+      0.10875,
+      "o"
+    ],
+    [
+      0.065527,
+      "n"
+    ],
+    [
+      0.164992,
+      "fig.yml "
+    ],
+    [
+      1.756147,
+      "\r\n"
+    ],
+    [
+      0.903774,
+      "2016-07-28 05:26:42,605 margaritashotgun.repository [INFO] downloading https://threatresponse-lime-modules.s3.amazonaws.com/lime-4.4.11-23.53.amzn1.x86_64.ko as lime-2016-07-28T05:26:42.605033-4.4.11-23.53.amzn1.x86_64.ko\r\n"
+    ],
+    [
+      0.003092,
+      "2016-07-28 05:26:42,608 margaritashotgun.repository [INFO] downloading https://threatresponse-lime-modules.s3.amazonaws.com/lime-4.4.11-23.53.amzn1.x86_64.ko as lime-2016-07-28T05:26:42.608177-4.4.11-23.53.amzn1.x86_64.ko\r\n"
+    ],
+    [
+      0.00174,
+      "2016-07-28 05:26:42,610 margaritashotgun.repository [INFO] downloading https://threatresponse-lime-modules.s3.amazonaws.com/lime-4.4.11-23.53.amzn1.x86_64.ko as lime-2016-07-28T05:26:42.609951-4.4.11-23.53.amzn1.x86_64.ko\r\n"
+    ],
+    [
+      0.013497,
+      "2016-07-28 05:26:42,623 margaritashotgun.repository [INFO] downloading https://threatresponse-lime-modules.s3.amazonaws.com/lime-4.4.11-23.53.amzn1.x86_64.ko as lime-2016-07-28T05:26:42.623437-4.4.11-23.53.amzn1.x86_64.ko\r\n"
+    ],
+    [
+      1.2158,
+      "2016-07-28 05:26:43,839 margaritashotgun.memory [INFO] 52.43.4.165: dumping memory to s3://cr-0001-20160727/52.43.4.165-mem.lime\r\n"
+    ],
+    [
+      0.029667,
+      "2016-07-28 05:26:43,868 margaritashotgun.memory [INFO] 52.42.254.41: dumping memory to s3://cr-0001-20160727/52.42.254.41-mem.lime\r\n"
+    ],
+    [
+      0.097306,
+      "2016-07-28 05:26:43,959 margaritashotgun.memory [INFO] 52.42.142.110: dumping memory to s3://cr-0001-20160727/52.42.142.110-mem.lime\r\n"
+    ],
+    [
+      0.046258,
+      "2016-07-28 05:26:44,007 margaritashotgun.memory [INFO] 52.36.135.123: dumping memory to s3://cr-0001-20160727/52.36.135.123-mem.lime\r\n"
+    ],
+    [
+      10.962636,
+      "2016-07-28 05:27:07,975 margaritashotgun.memory [INFO] 52.36.135.123: capture 10% complete\r\n"
+    ],
+    [
+      1.332431,
+      "2016-07-28 05:27:11,307 margaritashotgun.memory [INFO] 52.42.254.41: capture 10% complete\r\n"
+    ],
+    [
+      1.693726,
+      "2016-07-28 05:27:13,001 margaritashotgun.memory [INFO] 52.43.4.165: capture 10% complete\r\n"
+    ],
+    [
+      0.808767,
+      "2016-07-28 05:27:13,809 margaritashotgun.memory [INFO] 52.42.142.110: capture 10% complete\r\n"
+    ],
+    [
+      10.725975,
+      "2016-07-28 05:27:35,534 margaritashotgun.memory [INFO] 52.36.135.123: capture 20% complete\r\n"
+    ],
+    [
+      1.938366,
+      "2016-07-28 05:27:38,474 margaritashotgun.memory [INFO] 52.42.254.41: capture 20% complete\r\n"
+    ],
+    [
+      1.437951,
+      "2016-07-28 05:27:39,911 margaritashotgun.memory [INFO] 52.43.4.165: capture 20% complete\r\n"
+    ],
+    [
+      1.845149,
+      "2016-07-28 05:27:41,757 margaritashotgun.memory [INFO] 52.42.142.110: capture 20% complete\r\n"
+    ],
+    [
+      10.537386,
+      "2016-07-28 05:28:05,294 margaritashotgun.memory [INFO] 52.36.135.123: capture 30% complete\r\n"
+    ],
+    [
+      1.626693,
+      "2016-07-28 05:28:06,921 margaritashotgun.memory [INFO] 52.42.254.41: capture 30% complete\r\n"
+    ],
+    [
+      1.420162,
+      "2016-07-28 05:28:10,341 margaritashotgun.memory [INFO] 52.43.4.165: capture 30% complete\r\n"
+    ],
+    [
+      0.756699,
+      "2016-07-28 05:28:11,098 margaritashotgun.memory [INFO] 52.42.142.110: capture 30% complete\r\n"
+    ],
+    [
+      10.50561,
+      "2016-07-28 05:28:32,603 margaritashotgun.memory [INFO] 52.36.135.123: capture 40% complete\r\n"
+    ],
+    [
+      1.295953,
+      "2016-07-28 05:28:33,899 margaritashotgun.memory [INFO] 52.42.254.41: capture 40% complete\r\n"
+    ],
+    [
+      1.71136,
+      "2016-07-28 05:28:35,611 margaritashotgun.memory [INFO] 52.43.4.165: capture 40% complete\r\n"
+    ],
+    [
+      1.90303,
+      "2016-07-28 05:28:39,514 margaritashotgun.memory [INFO] 52.42.142.110: capture 40% complete\r\n"
+    ],
+    [
+      7.123576,
+      "2016-07-28 05:28:46,637 margaritashotgun.memory [INFO] 52.42.254.41: capture 50% complete\r\n"
+    ],
+    [
+      1.694975,
+      "2016-07-28 05:28:59,332 margaritashotgun.memory [INFO] 52.43.4.165: capture 50% complete\r\n"
+    ],
+    [
+      1.586508,
+      "2016-07-28 05:29:01,919 margaritashotgun.memory [INFO] 52.36.135.123: capture 50% complete\r\n"
+    ],
+    [
+      1.676351,
+      "2016-07-28 05:29:06,595 margaritashotgun.memory [INFO] 52.42.142.110: capture 50% complete\r\n"
+    ],
+    [
+      8.420069,
+      "2016-07-28 05:29:15,015 margaritashotgun.memory [INFO] 52.42.254.41: capture 60% complete\r\n"
+    ],
+    [
+      1.121657,
+      "2016-07-28 05:29:27,137 margaritashotgun.memory [INFO] 52.43.4.165: capture 60% complete\r\n"
+    ],
+    [
+      1.532842,
+      "2016-07-28 05:29:30,669 margaritashotgun.memory [INFO] 52.36.135.123: capture 60% complete\r\n"
+    ],
+    [
+      10.246229,
+      "2016-07-28 05:29:40,916 margaritashotgun.memory [INFO] 52.42.254.41: capture 70% complete\r\n"
+    ],
+    [
+      1.861598,
+      "2016-07-28 05:29:48,778 margaritashotgun.memory [INFO] 52.43.4.165: capture 70% complete\r\n"
+    ],
+    [
+      1.24664,
+      "2016-07-28 05:29:52,024 margaritashotgun.memory [INFO] 52.42.142.110: capture 60% complete\r\n"
+    ],
+    [
+      1.024318,
+      "2016-07-28 05:29:55,048 margaritashotgun.memory [INFO] 52.36.135.123: capture 70% complete\r\n"
+    ],
+    [
+      8.232742,
+      "2016-07-28 05:30:00,281 margaritashotgun.memory [INFO] 52.42.254.41: capture 80% complete\r\n"
+    ],
+    [
+      1.216398,
+      "2016-07-28 05:30:14,497 margaritashotgun.memory [INFO] 52.43.4.165: capture 80% complete\r\n"
+    ],
+    [
+      1.808967,
+      "2016-07-28 05:30:17,306 margaritashotgun.memory [INFO] 52.42.142.110: capture 70% complete\r\n"
+    ],
+    [
+      1.253321,
+      "2016-07-28 05:30:21,560 margaritashotgun.memory [INFO] 52.36.135.123: capture 80% complete\r\n"
+    ],
+    [
+      8.853281,
+      "2016-07-28 05:30:27,413 margaritashotgun.memory [INFO] 52.42.254.41: capture 90% complete\r\n"
+    ],
+    [
+      1.216374,
+      "2016-07-28 05:30:42,629 margaritashotgun.memory [INFO] 52.43.4.165: capture 90% complete\r\n"
+    ],
+    [
+      1.198775,
+      "2016-07-28 05:30:43,828 margaritashotgun.memory [INFO] 52.42.142.110: capture 80% complete\r\n"
+    ],
+    [
+      1.079317,
+      "2016-07-28 05:30:50,907 margaritashotgun.memory [INFO] 52.36.135.123: capture 90% complete\r\n"
+    ],
+    [
+      3.958892,
+      "2016-07-28 05:30:54,867 margaritashotgun.memory [INFO] 52.42.254.41: capture complete: s3://cr-0001-20160727/52.42.254.41-mem.lime\r\n"
+    ],
+    [
+      2.840619,
+      "2016-07-28 05:30:57,707 margaritashotgun.memory [INFO] 52.43.4.165: capture complete: s3://cr-0001-20160727/52.43.4.165-mem.lime\r\n"
+    ],
+    [
+      1.542046,
+      "2016-07-28 05:31:00,249 margaritashotgun.memory [INFO] 52.42.142.110: capture 90% complete\r\n"
+    ],
+    [
+      3.365992,
+      "2016-07-28 05:31:03,615 margaritashotgun.memory [INFO] 52.36.135.123: capture complete: s3://cr-0001-20160727/52.36.135.123-mem.lime\r\n"
+    ],
+    [
+      1.839766,
+      "2016-07-28 05:31:05,455 margaritashotgun.memory [INFO] 52.42.142.110: capture complete: s3://cr-0001-20160727/52.42.142.110-mem.lime\r\n"
+    ],
+    [
+      0.512868,
+      "2016-07-28 05:31:05,968 margaritashotgun.client [INFO] 4 hosts processed. completed: 4 failed 0\r\n"
+    ],
+    [
+      8.2e-05,
+      "2016-07-28 05:31:05,968 margaritashotgun.client [INFO] completed_hosts: ['52.36.135.123', '52.42.254.41', '52.42.142.110', '52.43.4.165']\r\n"
+    ],
+    [
+      9.2e-05,
+      "2016-07-28 05:31:05,968 margaritashotgun.client [INFO] failed_hosts: []\r\n"
+    ],
+    [
+      0.034621,
+      "\u001b]0;ec2-user@ip-172-31-1-159:~/bsides-demo\u0007"
+    ],
+    [
+      7.9e-05,
+      "[ec2-user@ip-172-31-1-159 bsides-demo]$ "
+    ],
+    [
+      1.881002,
+      "aws s3 ls cr-0001-20160727"
+    ],
+    [
+      0.279354,
+      "\r\n"
+    ],
+    [
+      0.381584,
+      "2016-07-28 05:26:45 1073336384 52.36.135.123-mem.lime\r\n"
+    ],
+    [
+      0.000139,
+      "2016-07-28 05:26:45 1073336384 52.42.142.110-mem.lime\r\n"
+    ],
+    [
+      0.000175,
+      "2016-07-28 05:26:44 1073336384 52.42.254.41-mem.lime\r\n"
+    ],
+    [
+      0.000171,
+      "2016-07-28 05:26:44 1073336384 52.43.4.165-mem.lime\r\n"
+    ],
+    [
+      0.02396,
+      "\u001b]0;ec2-user@ip-172-31-1-159:~/bsides-demo\u0007"
+    ],
+    [
+      2.6e-05,
+      "[ec2-user@ip-172-31-1-159 bsides-demo]$ "
+    ],
+    [
+      0.279354,
+      "\r\n"
+    ]
+  ]
+}
